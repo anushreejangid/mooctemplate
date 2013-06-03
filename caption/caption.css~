@@ -1,0 +1,30 @@
+/* additional style */
+#hover-cap .thumbnail {
+    position:relative;
+    overflow:hidden;
+}
+
+#hover-cap
+{
+
+}
+.caption {
+    margin-top: 50px;
+    display: none;
+    position: absolute;
+    top: 100px;
+    left: 0;
+    background: rgba(0,20,20,0.6);
+    width: 100%;
+    height: 80%;
+    color:#fff !important;
+}
+
+.caption p {
+    color: #fff;
+}
+
+.thumbnails
+{
+    margin: 0px;
+}

@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MOOC</title> <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>MOOC</title> <meta property="og:title" content="mooc" />
+
+<link rel='stylesheet' href='./css/home.css' type='text/css' media='all'>
+<meta name="description" content="Knowledge, Wisdom & Community thats amazing">
+<meta property="og:description" content="Use MOOC to bring back to you what you left behind someday" />
+<meta property="og:type" content="website" />
+<meta property="fb:admins" content="603317924" />
+
+<meta name="google-site-verification" content="aTHx0fECngasT9jjBPd1v4U0rASSCH36eobTv3xqzA8" />
+
+<meta name="author" content="Kippt"> <link rel="author" href="/humans.txt" />
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<!-- HTML5 shim, for IE6-8 support of HTML5 elements --> <!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<link rel="icon" type="image/png" href="./img/moocl.jpg">
+<link rel="apple-touch-icon-precomposed" href="./img/moocl.jpg" sizes="114x114" />
+<link rel="fluid-icon" href="./img/moocl.jpg" title="MOOC" />
+<link rel="stylesheet" href="./css/97014f308af8.css" type="text/css" />
+<link rel="stylesheet" href="./css/simplyscroll.css" type="text/css"/>
+
+    <!--///////////////////////////////////////////////////////////////////////////////////////////////////
+    //
+    //          Scripts
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////////////////-->
+<script src="./js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="./js/c16ed7fcad12.js"></script>
+<script src="./js/carousels.js"></script>
+<script type='text/javascript' src='./camera/scripts/jquery.min.js'></script>
+<script type='text/javascript' src='./camera/scripts/jquery.mobile.customized.min.js'></script>
+<script type='text/javascript' src='./camera/scripts/jquery.easing.1.3.js'></script>
+<script type='text/javascript' src='./camera/scripts/camera.min.js'></script>
+
+<script>
+		jQuery(function(){
+
+			jQuery('#camera_random').camera({
+				thumbnails: true
+			});
+
+		});
+</script>
+
+</head>
+
+<body class="page landing">
+<div class="navbar">
+<div class="container">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+	</button> <a class="navbar-brand" href="/"><img src="./img/moocl.jpg"
+	width="100"></a> <div class="nav-collapse collapse">
+	    <ul class="nav">
+		<!--<li><a href="/features/">Features</a></li>--> <li><a
+		href="/about/">About</a></li> <li><a
+		href="http://blog.kippt.com/">Courses</a></li> <li
+		class="sep"><li> <li><a href="/login/">Log in</a></li> <li
+		class="signup"><a href="/signup/">Sign up</a></li>
+	    </ul>
+	</div>
+    </div>
+</div>
+
+    <div id="main">
+
+    <div class="header container">
+	<div class="row">
+	    <div class="span9">
+		<h1>Knowledge, Wisdom & Community<span> thats
+		amazing</span></h1> <p class="lead">Use MOOC to bring back to
+		you what you left behind someday</p>
+	    </div> <div class="span3">
+		<a href="/signup/" class="btn btn-primary pull-right">Get
+		Started</a>
+	    </div>
+	</div>
+
+    </div>
+<link rel='stylesheet' id='camera-css' href='./camera/css/camera.css'
+type='text/css' media='all'>
+    <style>
+		body {
+			margin: 0; padding: 0;
+		}
+		html {
+		  height: auto; overflow-y: scroll;
+		}
+		a {
+			color: #09f;
+		}
+		a:hover {
+			text-decoration: none;
+		}
+		#back_to_camera {
+			clear: both; display: block; height: 80px; line-height:
+			40px; padding: 20px;
+		}
+		.fluid_container {
+			margin: 0 auto; max-width: 960px; 100%;
+		}
+		.nobg {
+          background-color:transparent;
+		}
+	</style>
+
+
+
+</head>
+<body>
+<div class="fluid_container">
+
+<script type="text/javascript" src="./simplyscroll/jquery.simplyscroll.js"></script>
+<link rel="stylesheet" href="./simplyscroll/jquery.simplyscroll.css" media="all"
+type="text/css">
+
+
+<script type="text/javascript">
+(function($) {
+	$(function() { //on DOM ready
+		$("#scroller").simplyScroll({
+			direction: 'forwards',
+			customClass: 'custom',
+			pauseOnHover: false,
+			frameRate: 20,
+			speed: 2
+		});
+	});
+})(jQuery);
+</script>
+
+<div class="camera_wrap camera_azure_skin"id="camera_random">
+    <div data-thumb="./camera/images/slides/thumbs/bridge.jpg" data-src="./camera/images/slides/bridge.jpg">
+        <div class="camera_caption simpleFade">
+	        Camera is a responsive/adaptive slideshow. <em>Try to resize the browser window</em>
+        </div>
+    </div>
+    <div data-thumb="./camera/images/slides/thumbs/sea.jpg" data-src="./camera/images/slides/sea.jpg">
+        <div class="camera_caption simpleFade">
+		    Camera slideshow provides many options <em>to customize your
+		    project</em> as more as possible
+        </div>
+    </div>
+    <div data-thumb="./camera/images/slides/thumbs/shelter.jpg" data-src="./camera/images/slides/shelter.jpg">
+        <div class="camera_caption simpleFade">
+		        It supports captions, HTML elements and videos and <em>it's validated in HTML5</em> (<a
+		        href="http://validator.w3.org/check?uri=http%3A%2F%2Fwww.pixedelic.com%2Fplugins%2Fcamera%2F&amp;charset=%28detect+automatically%29&amp;doctype=Inline&amp;group=0&amp;user-agent=W3C_Validator%2F1.2"
+		    target="_blank">have a look</a>)
+        </div>
+    </div>
+    <div data-thumb="./camera/images/slides/thumbs/leaf.jpg" data-src="./camera/images/slides/leaf.jpg">
+        <div class="camera_caption simpleFade">
+	        It uses a light version of jQuery mobile, <em>navigate the slides by swiping with your fingers</em>
+        </div>
+    </div>
+    <div data-thumb="./camera/images/slides/thumbs/road.jpg" data-src="./camera/images/slides/road.jpg">
+        <div class="camera_caption simpleFade"> <em>It's completely free</em> (even if a donation is appreciated)
+        </div>
+    </div>
+    <div data-thumb="./camera/images/slides/thumbs/tree.jpg" data-src="./camera/images/slides/tree.jpg">
+      <div class="camera_caption simpleFade">
+        Different color skins and layouts available, <em>fullscreen ready too</em>
+      </div>
+    </div>
+</div><!-- #camera_random -->
+</script>
+  <div id="scroller_wrap" class="scroller_wrap">
+  <div id="scroller">
+  <div class="section">
+    <div class="hp-highlight" style="background:url(./img/fruit/fruit1.png) no-repeat 0 0">
+      <div class="feature-headline">
+	  <h1><a href="#" title="Apple Ji" rel="external">Apple</a></h1>
+	  <p>This is red apple</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="hp-highlight" style="background:url(./img/fruit/fruit2.png) no-repeat 0 0">
+      <div class="feature-headline">
+	  <h1><a href="#" title="Mandarin Ji" rel="external">Mandarin</a></h1>
+	  <p>This is mandarin</p>
+      </div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="hp-highlight" style="background:url(./img/fruit/fruit1.png) no-repeat 0 0">
+      <div class="feature-headline">
+	  <h1><a href="#" title="Apple Ji" rel="external">Apple</a></h1>
+	  <p>This is red apple</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="hp-highlight" style="background:url(./img/fruit/fruit2.png) no-repeat 0 0">
+      <div class="feature-headline">
+	  <h1><a href="#" title="Mandarin Ji" rel="external">Mandarin</a></h1>
+	  <p>This is mandarin</p>
+      </div>
+    </div>
+  </div>
+  </div>
+  </div>
+
+     <div style="clear:both; display:block; height:100px"></div>
+        <ul class="nav nav-pills">
+            <li class="active"> <a href="#">Starting Soon</a> </li>
+            <li><a href="#">Recently Added</a></li>
+            <li><a href="#">Ongoing</a></li>
+        </ul>
+</div><!-- .fluid_container -->
+<footer>
+    <div class="container">
+   <div class="row-fluid">
+            <div class="span12">
+                <div class="row-fluid">
+                    <div class="span6">
+                    <div class="row">
+                    <ul class="nobg breadcrumb">
+                    <li><a href="">About</a></li>
+                    <li><a href="">Courses</a></li>
+                    <li><a href="">Team</a></li>
+                    <li><a href="">Contact</a></li>
+                    <li><a href="">Help</a></li>
+                    </ul>
+                    </div>
+                    <div class="row">
+                        <div class="span2">
+                            <a href="/"><img src="./img/moocl.jpg" width="50"></a>
+                        </div>
+                        <div class="span10"> An online course aimed at large-scale interactive participation and open access via the web</div>
+                    </div>
+                    </div>
+                    <div class="span6">
+                    <h2>Heading</h2>
+                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                    <p><a class="btn" href="#">View details &raquo;</a></p>
+                    </div>
+                    </div>
+            </div><!--/span-->
+    </div>
+    </div>
+</footer>
+</body>
+</html>
+

@@ -1,0 +1,98 @@
+
+.custom { /* Applied to container DIV */
+	width: 960px;
+	height: 210px;
+	margin-bottom: 1em;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.custom .simply-scroll-clip { /* Applied to clip DIV */
+	width: 960px;
+	height: 210px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.scroller_wrap {
+	margin: 0;
+	padding: 0;
+	display: block;
+	clear: both;
+}
+
+
+/* Existing styles */
+#scroller .section {
+	float:left;
+	width: 280px;
+	height: 210px;
+}
+
+#scroller .hp-highlight {
+	height:210px;
+	margin:-10px 10px 10px 0;
+}
+
+#scroller .feature-headline {
+	position:relative;
+	top:140px;
+	width:280px;
+	margin:10px 10px 20px 10px;
+	padding:10px 10px 0 10px;
+}
+#scroller .feature-headline a {
+	font-weight: bold;
+	text-decoration: none;
+	color:#cc0000;
+}
+
+#scroller h1 {
+	font-weight:normal;
+	font-size:19px;
+}
+
+#scroller p {
+	font-size: 14px !important;
+	color:#666666;
+	line-height:130%;
+	padding:0 0 10px;
+}
+
+
+/* Container DIV - automatically generated */
+.simply-scroll-container { 
+	position: relative;
+}
+
+/* Clip DIV - automatically generated */
+.simply-scroll-clip { 
+	position: relative;
+	overflow: hidden;
+	z-index: 2;
+	width: 900px;
+}
+
+/* UL/OL/DIV - the element that simplyScroll is inited on
+Class name automatically added to element */
+.simply-scroll-list { 
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+	
+.simply-scroll-list li {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+	
+.simply-scroll-list li img {
+	border: none;
+	display: block;
+}
