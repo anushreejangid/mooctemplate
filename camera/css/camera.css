@@ -23,6 +23,7 @@
 	float: left;
 	position: relative;
 	z-index: 0;
+	clear: both;
 }
 .camera_wrap img {
 	max-width: none!important;
